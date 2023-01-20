@@ -1,0 +1,10 @@
+export const GET_USERS_DETAILS = "GET_USERS_DETAILS";
+export const GET_USER = "GET_USER";
+export const USER_DATA = "USER_DATA";
+export const USER_EMAIL = "USER_EMAIL";
+export const USER_GENDER = "USER_GENDER"
+export const USER_STATUS = "USER_STATUS";
+export const GET_STATUS = "GET_CREATE_STATUS";
+export const GET_MODAL_STATUS = "GET_MODAL_STATUS";
+export const GET_USER_ID_FOR_DELETE = "GET_USER_ID_FOR_DELETE"
+export const GET_MODAL_DETAILS = "GET_MODAL_DETAILS" 
